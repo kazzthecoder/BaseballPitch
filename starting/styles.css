@@ -1,0 +1,30 @@
+body {
+    background-color: #FFF;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #466995;
+    border-bottom: 1px solid #466995;
+    position: fixed;
+    width: 100%;
+    z-index: 10;
+    top: 0;
+}
+
+.title {
+    argin: 30px auto;
+  padding: 0 20px;
+  text-align: center;
+}
+
+.container {
+    border: 2px solid black;
+    margin:30px 100px;
+    position: relative;
+    margin-top: 100px;
+}
+
+
+
+
